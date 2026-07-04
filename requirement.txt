@@ -2,3 +2,7 @@ streamlit
 csv
 io
 matplotlib
+pandas
+numpy
+seaborn
+scikit-learn
